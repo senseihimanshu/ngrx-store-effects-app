@@ -84,10 +84,6 @@
       "name": "Seaside Surfin'",
       "toppings": [
         {
-          "id": 6,
-          "name": "mushroom"
-        },
-        {
           "id": 7,
           "name": "olive"
         },
@@ -128,6 +124,10 @@
         {
           "id": 10,
           "name": "pepperoni"
+        },
+        {
+          "id": 6,
+          "name": "mushroom"
         }
       ],
       "id": 3
